@@ -1,0 +1,6 @@
+*.bak
+SKILL.md.bak-*
+.DS_Store
+*.partial
+*.log
+.github-token*
