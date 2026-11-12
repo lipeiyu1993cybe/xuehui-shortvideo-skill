@@ -1,6 +1,9 @@
-*.bak
-SKILL.md.bak-*
 .DS_Store
+__pycache__/
+*.py[cod]
+*.bak
 *.partial
 *.log
 .github-token*
+.env
+.env.*
