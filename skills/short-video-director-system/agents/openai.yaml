@@ -1,0 +1,4 @@
+interface:
+  display_name: "短视频编导运营体系"
+  short_description: "课程精确问答与短视频全链路运营，并持续沉淀 Obsidian"
+  default_prompt: "使用 $short-video-director-system 精确回答课程知识点并辨析层级，或完成从产品、内容到获客、承接和复盘的短视频运营方案。"
